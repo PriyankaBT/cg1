@@ -17,7 +17,7 @@ public class DemoLog4J {
 		}
 
 		if (flag == false) {
-			myLogger.error("Error occured due to false value");
+			myLogger.error("Error occured! Due to false value");
 		}
 	}
 
