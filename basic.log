@@ -1,0 +1,4 @@
+2021-09-07 15:58:56,046 INFO [DemoLog4J] - Logging information for DemoLog4j
+2021-09-07 15:58:56,048 DEBUG [DemoLog4J] - Code debugging started
+2021-09-07 15:58:56,048 WARN [DemoLog4J] - This is last time warning
+2021-09-07 15:58:56,048 ERROR [DemoLog4J] - Error occured due to false value
